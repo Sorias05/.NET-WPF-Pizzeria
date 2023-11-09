@@ -1,0 +1,20 @@
+﻿Exam
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Studying\Crash Course\.NET-Crash-Course-2023\Exam\Exam\obj\Debug\net7.0-windows\
+Exam
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\Studying\Crash Course\.NET-Crash-Course-2023\Exam\Exam\App.xaml
+131936628797
+
+251270196994
+226-327588406
+AddIngredientWindow.xaml;AddPizzaWindow.xaml;AddUserWindow.xaml;AdminWindow.xaml;CartWindow.xaml;EditIngredientWindow.xaml;EditPizzaWindow.xaml;EditUserWindow.xaml;MainWindow.xaml;PizzaCreatorWindow.xaml;PizzaEditorWindow.xaml;RegisterWindow.xaml;UserWindow.xaml;
+
+True
+
